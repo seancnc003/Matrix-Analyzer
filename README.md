@@ -31,3 +31,10 @@ The project analyzes the distribution of car buyers among dealerships (Ford, Che
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/matrix-analyzer.git
+
+
+## Resume Bullet Points
+Transition Matrix Analyzer for Car Buyers (Python/NumPy) | Linear Algebra                                                                           
+* Built a program in Python using the NumPy library to forecast the changes in distribution of 2000 car buyers
+* Applied the Markov Chain process to predict car buyer trends in the next 6 years in a given system
+
